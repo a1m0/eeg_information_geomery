@@ -1,0 +1,8 @@
+{
+  "observed_distance": 1.4506064710766138,
+  "p_value": 0.034,
+  "null_mean": 0.9495617517709305,
+  "null_std": 0.24203860646139821,
+  "null_median": 0.9167054087193816,
+  "n_permutations": 1000
+}

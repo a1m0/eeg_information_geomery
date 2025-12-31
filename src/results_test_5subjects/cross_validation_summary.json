@@ -1,0 +1,10 @@
+{
+  "mean_accuracy": 0.745,
+  "std_accuracy": 0.14781745499094484,
+  "median_accuracy": 0.775,
+  "min_accuracy": 0.475,
+  "max_accuracy": 0.9,
+  "n_folds": 5,
+  "mean_train_distance": 1.621901032322307,
+  "std_train_distance": 0.3134955164274389
+}

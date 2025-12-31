@@ -1,0 +1,6 @@
+test_subject,train_distance,test_accuracy,n_test_trials,n_train_samples,n_states,state_names,mean_log_likelihood
+s01,1.6782806279125873,0.85,40,160,2,"['low_valence', 'high_valence']",-inf
+s02,1.6148894267867986,0.775,40,160,2,"['low_valence', 'high_valence']",-inf
+s03,2.1754490997680866,0.475,40,160,2,"['low_valence', 'high_valence']",-inf
+s04,1.3205514481733407,0.9,40,160,2,"['low_valence', 'high_valence']",-inf
+s05,1.320334558970723,0.725,40,160,2,"['low_valence', 'high_valence']",-inf

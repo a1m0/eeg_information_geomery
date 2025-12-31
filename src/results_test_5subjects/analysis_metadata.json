@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-31T11:02:37.875111",
+  "config": {
+    "scheme": "binary",
+    "target": "valence",
+    "threshold": 5.0,
+    "use_pca": true,
+    "pca_components": 10,
+    "baseline_correct": true,
+    "artifact_threshold_uv": 100.0,
+    "global_seed": 42
+  },
+  "subjects": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05"
+  ],
+  "n_subjects": 5,
+  "n_subjects_with_data": 5,
+  "n_total_samples": 200,
+  "feature_dim_original": 96,
+  "feature_dim_final": 10,
+  "states_exploratory": {
+    "low_valence": 149,
+    "high_valence": 51
+  },
+  "artifact_rejection_enabled": false,
+  "artifact_rejection_rate": 0.0
+}
